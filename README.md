@@ -27,7 +27,7 @@ This is the FastAPI backend for the AI Database Assistant. It analyzes database 
    uv sync
    ```
 
-3. Set your Gemini API key in a `.env` file:
+3. Set your Gemini API key (get it from https://aistudio.google.com/) in a `.env` file:
 
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
